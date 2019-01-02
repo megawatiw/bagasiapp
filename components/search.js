@@ -1,0 +1,14 @@
+import React, {Component} from 'react';
+import {Text, View} from 'react-native';
+
+const Search = () => {
+    return(
+        <View>
+            <Text>
+                kjsdhiejfjdhf
+            </Text>
+        </View>
+    )
+}
+
+export default Search;
